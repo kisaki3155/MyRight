@@ -1,6 +1,6 @@
 # MyRight
 
-给自己使用的 macOS Finder 右键工具。当前版本 **0.2.1**。
+macOS Finder 右键工具。当前版本 **0.2.1**。
 
 - **新建文件**：Word、Excel、PowerPoint、Pages、Numbers、Keynote、Markdown、TXT。创建标准空白文档，选中后按回车改名，重名时自动编号。
 - **在终端打开**：在文件夹空白处打开当前目录，或右键单个文件夹打开该文件夹。
